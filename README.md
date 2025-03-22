@@ -57,8 +57,8 @@
 
 | Platform | Link |
 |----------|------|
-| <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Daniel Lachmakov](https://www.linkedin.com/in/daniel-lachmakov) |
-| <img align="left" alt="Gmail logo" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> Email | [YourEmail@example.com](mailto:YourEmail@example.com) |
+| <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Daniel Lachmakov](https://www.linkedin.com/in/daniel-lachmakov-94761b288/) |
+| <img align="left" alt="Gmail logo" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /> Email | [Danilla98@gmail.com](mailto:Danilla98@gmail.com) |
 
 ---
 

@@ -6,7 +6,7 @@
     </em>
 </p>
 
-> "The most important thing about software is that it is not about the software; it is about the people."
+> "The true power of data mining lies not in the data itself, but in the insights it uncovers and the impact it has on people’s decisions."
 
 ---
 

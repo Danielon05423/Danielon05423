@@ -1,4 +1,4 @@
-# Hi, I'm Yuval Kogan! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="50" alt="Dog GIF">
+# Hi, I'm Daniel Lachmakov! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="50" alt="Dog GIF">
 
 <p>
     <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en" alt="Link to braude`s english home page">Braude College of Engineering</a> 

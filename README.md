@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Lachmakov! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="50" alt="Dog GIF">
+# Hi, I'm Daniel Lachmakov! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGltdDNzNnU0aGd4aDlicHc1YzM0cG80c2h5M2I2enN4bGthY2dpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" alt="Dog GIF">
 
 <p>
     <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en" alt="Link to Braude's English home page">Braude College of Engineering</a> 
